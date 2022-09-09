@@ -1,0 +1,39 @@
+h1{
+    margin-left: 2rem;
+}
+#corpo{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: 100px;
+    position:absolute;
+	top:0;
+	left:0;
+	z-index:11;
+	width:100%;
+	height:100%;
+}
+
+#cor1{
+    background-color: #66a0ab;
+}
+#cor2{
+    background-color: #036564;
+}
+#cor3{
+    background-color: #67b8b2;
+}
+#cor4{
+    background-color: #ff696a;
+}
+#cor5{
+    background-color: #f5d13d;
+}
+#cor6{
+    background-color: #81b5b0;
+}
+#cor7{
+    background-color: #373b44;
+}
+#cor8{
+    background-color: #da6516;
+}
